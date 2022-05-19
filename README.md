@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juancastein
 - 👀 I’m interested in SharePoint
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on .Net Core Projects.
 - 📫 How to reach me juancastein1@gmail.com
 
